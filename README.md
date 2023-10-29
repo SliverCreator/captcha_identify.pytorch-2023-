@@ -42,6 +42,8 @@
 
     Python3.6+ 、ImageCaptcha库(pip install captcha)、 Pytorch(参考官网http://pytorch.org)
     我使用的是Python3.11，Pytorch2.1
+    建议先在根目录自行创建test和weights两个文件夹避免报错
+    
 
 - __步骤二：生成验证码__
     ```bash
