@@ -71,7 +71,7 @@
 可视化
 ===
 
-![results-acc](assets/results-acc.png)
+![results-acc](results-acc.png)
 
 贡献
 ===
